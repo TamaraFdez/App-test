@@ -729,12 +729,12 @@
     "tema": "tema1",
     "pregunta": "¿Cuál es el proceso a seguir para realizar un pedido de reposición de tarjetas GiftCard en las oficinas de Correos?",
     "opciones": [
-      "El Usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsa sobre \"Reposición de productos\".",
-      "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre \"Reposición de GiftCard\".",
+      "El Usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsa sobre Reposición de productos.",
+      "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre Reposición de GiftCard.",
       "El usuario de la oficina debe remitir solicitud a Control de Productos, indicando el número de unidades de cada producto.",
       "El usuario de la oficina debe remitir solicitud por correo electrónico a GiftCard con copia a Control de Productos, indicando el número de unidades de cada producto."
     ],
-    "respuestaCorrecta": "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre \"Reposición de GiftCard\"."
+    "respuestaCorrecta": "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre Reposición de GiftCard."
   },
   {
     "id": 67,
