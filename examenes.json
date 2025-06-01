@@ -1,0 +1,1085 @@
+[
+  {
+    "id": 1,
+    "tema": "tema1",
+    "pregunta": "En el contexto de la aplicación de medidas reforzadas en las operaciones de envío o cobro de dinero en una oficina, ¿cuál es el significado de las siglas DAE?",
+    "opciones": [
+      "Documento de Acreditación Estatal",
+      "Dirección de Asuntos Económicos",
+      "Declaración de Actividad Económica",
+      "Ningunas de las respuestas anteriores es correcta"
+    ],
+    "respuestaCorrecta": "Declaración de Actividad Económica"
+  },
+  {
+    "id": 2,
+    "tema": "tema1",
+    "pregunta": "¿Se pueden enviar recibos y facturas como cartas ordinarias?",
+    "opciones": [
+      "Sí, pero solo si es dentro del mes siguiente a su emisión",
+      "No, ya que no tienen carácter personal",
+      "Solo facturas, ya que los recibos llevan información de crácter no personal",
+      "Sí, tanto recibos como facturas"
+    ],
+    "respuestaCorrecta": "Sí, tanto recibos como facturas"
+  },
+  {
+    "id": 3,
+    "tema": "tema1",
+    "pregunta": "Entre los siguientes, ¿cuál es un medio de pago válido en la red de oficinas?",
+    "opciones": ["Ingreso en cuenta", "Cheque", "Bitcoins", "Bizum"],
+    "respuestaCorrecta": "Cheque"
+  },
+  {
+    "id": 4,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes organismos es el encargado del sistema de autorizaciones, del cobro de tasas postales y de la gestión del Registro General de empresas prestadoras de servicios postales?",
+    "opciones": [
+      "El Ministerio para la Transformación Digital y de la Función Pública",
+      "La Subdirección General de Régimen Postal",
+      "La S.E. Correos y Telégrafos S.A., S.M.E.",
+      "El Ministerio de Hacienda"
+    ],
+    "respuestaCorrecta": "La Subdirección General de Régimen Postal"
+  },
+  {
+    "id": 5,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es la principal funcionalidad de la aplicación Quenda?",
+    "opciones": [
+      "Permite identificar a los clientes cuando realizan una compra en la oficina",
+      "Permite acceder a la funcionalidad de envío de dinero",
+      "Permite controlar el tiempo de espera de los clientes en las oficinas",
+      "Permite acceder a la funcionalidad de transferencia de dinero en minutos"
+    ],
+    "respuestaCorrecta": "Permite controlar el tiempo de espera de los clientes en las oficinas"
+  },
+  {
+    "id": 6,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el plazo máximo para solicitar una certificación de contenido de un burofax de ámbito nacional?",
+    "opciones": [
+      "7 días naturales, tiempo durante el que se conservan las carátulas y la documentación de los burofaxes; una vez transcurrido este plazo se procede a su destrucción de forma segura.",
+      "El plazo máximo será el periodo de custodia que se haya contratado en el momento de la admisión del burofax.",
+      "La certificación de contenido deberá solicitarse exclusivamente en el momento de la admisión para garantizar la veracidad del documento.",
+      "7 días hábiles, tiempo durante elque se conservan las carátulas y la documentación de los burofaxes; transcurrido este plazo se procede a la destrucción de forma segura"
+    ],
+    "respuestaCorrecta": "7 días naturales, tiempo durante el que se conservan las carátulas y la documentación de los burofaxes; una vez transcurrido este plazo se procede a su destrucción de forma segura."
+  },
+  {
+    "id": 7,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes valores añadidos se pueden contratar con la carta certificada nacional?",
+    "opciones": [
+      "Entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica",
+      "Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancía y aviso de recibo",
+      "Reembolso, valor declarado de la mercancía y prueba de entrega electrónica",
+      "Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica"
+    ],
+    "respuestaCorrecta": "Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica"
+  },
+  {
+    "id": 8,
+    "tema": "tema1",
+    "pregunta": "¿Cuáles son las dimensiones de la agenda de la diversidad en Correos?",
+    "opciones": [
+      "Género, LGTBI, discapacidad, cultural y generacional",
+      "Desarrollo profesional y talento",
+      "Cultural, empresa saludable y comunicación",
+      "Género, cultural, discapaciadad y generacional"
+    ],
+    "respuestaCorrecta": "Género, LGTBI, discapacidad, cultural y generacional"
+  },
+  {
+    "id": 9,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes servicios o productos no puede cobrarse en metálico al cliente en una oficina?",
+    "opciones": [
+      "Un pago de un recibo de Endesa de 500 €",
+      "El pago de una multa de 2.000 € de la DGT",
+      "La admisión de 50 burofaxes, por un importe total de 1.200 €",
+      "Un envío de Western Union de 1.500 €"
+    ],
+    "respuestaCorrecta": "El pago de una multa de 2.000 € de la DGT"
+  },
+  {
+    "id": 10,
+    "tema": "tema1",
+    "pregunta": "¿Puede depositarse en un apartado postal los envíos en cuya dirección conste solo el domicilio del cliente?",
+    "opciones": [
+      "No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado y el nombre de titular o tirulares del mismo.",
+      "No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado.",
+      "Sí, siempre y cuando el titular o titulares autoricen or escrito a la unidad de distribución que los envíos dirigidos a su domicilio sean depositados en su apartado.",
+      "Sí, se pueden depositar los envíos dirigidos al titular o titulares, sin necesidad de realiar autorización por escrito."
+    ],
+    "respuestaCorrecta": "No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado y el nombre de titular o tirulares del mismo."
+  },
+  {
+    "id": 11,
+    "tema": "tema1",
+    "pregunta": "¿A qué entidad o entidades clasifica la Comisión Nacional de los Mercados y la Competencia como operador público en el segmento CEP (Courier, Express and Parcel)?",
+    "opciones": [
+      "Solo a la Sociedad Estatal Correos y Telégrafos, S. A., S.M.E.",
+      "A la Sociedad Estatal Correos y Telégrafos, S. A., S.M.E. y a los operadores adheridos",
+      "A la Sociedad Estatal Correos y Telégrafos, S. A., S.M.E. y a Correos Express, S. A.",
+      "Solo a Correos Express, S.A."
+    ],
+    "respuestaCorrecta": "Solo a la Sociedad Estatal Correos y Telégrafos, S. A., S.M.E."
+  },
+  {
+    "id": 12,
+    "tema": "tema1",
+    "pregunta": "Los servicios de proximidad de Correos Frío, orientados al transporte de última milla de alimentación, se realizan mediante...",
+    "opciones": [
+      "Palets refrigerados",
+      "Vehículos isotermos, refrigerados o frigoríficos",
+      "Vehículos convencionales",
+      "Cajas isotérmicas"
+    ],
+    "respuestaCorrecta": "Vehículos isotermos, refrigerados o frigoríficos"
+  },
+  {
+    "id": 13,
+    "tema": "tema1",
+    "pregunta": "¿Cómo se llama el nuevo centro internacional de Correos que estará dedicado íntegramente al correo internacional de importación?",
+    "opciones": ["CTP el Prat", "Rampa 7", "CTI Barajas", "CCP Barajas"],
+    "respuestaCorrecta": "CTI Barajas"
+  },
+  {
+    "id": 14,
+    "tema": "tema1",
+    "pregunta": "¿Cuál no se corresponde exactamente con una de las asociaciones internacionales a las que pertenece Correos?",
+    "opciones": [
+      "UPAE (Unión Postal de las Américas y España)",
+      "UPU (Unión Postal Universal)",
+      "IPC (International Post Corporation)",
+      "Kahala Post Group"
+    ],
+    "respuestaCorrecta": "UPAE (Unión Postal de las Américas y España)"
+  },
+  {
+    "id": 15,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes tipos de envíos no tiene entrega domiciliaria y por tanto su entrega siempre será en oficina?",
+    "opciones": [
+      "Un certificado nacional dirigido a un apartado de Correos",
+      "Un envío ordinario internacional con un peso de 100 gramos",
+      "Un envío certificado con valor declarado",
+      "Un libro con un peso inferior a 200 gramos"
+    ],
+    "respuestaCorrecta": "Un certificado nacional dirigido a un apartado de Correos"
+  },
+  {
+    "id": 16,
+    "tema": "tema1",
+    "pregunta": "¿Cómo se denomina la aplicación específica para el envío de un giro en Correos?",
+    "opciones": ["SICER", "IRIS", "SEDI", "WUPOS"],
+    "respuestaCorrecta": "SICER"
+  },
+  {
+    "id": 17,
+    "tema": "tema1",
+    "pregunta": "En las operaciones de giro, indique cuál de los siguientes documentos no es válido para la identificación formal de personas físicas de nacionalidad extranjera:",
+    "opciones": [
+      "Tarjeta de Asilo Político",
+      "Certificado de registro de ciudadanos de la Unión Europea (carta verde)",
+      "Tarjeta de Identidad de Extranjero o Tarjeta de residencia",
+      "Pasaporte válido en el país de procedencia que incorpore fotografía de su titular"
+    ],
+    "respuestaCorrecta": "Certificado de registro de ciudadanos de la Unión Europea (carta verde)"
+  },
+  {
+    "id": 18,
+    "tema": "tema1",
+    "pregunta": "En relación con los canales de atención al cliente de los que dispone Correos, señale cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "La atención multicanal de Correos no contempla en este momento las redes sociales",
+      "Actualmente Correos no dispone de atención multicanal para sus clientes",
+      "Todos los clientes de Correos tienen acceso a una atención multicanal",
+      "Únicamente los clientes con contrato tienen acceso a una atención multicanal"
+    ],
+    "respuestaCorrecta": "Todos los clientes de Correos tienen acceso a una atención multicanal"
+  },
+  {
+    "id": 19,
+    "tema": "tema1",
+    "pregunta": "¿Qué tipo de envío es el publibuzón?",
+    "opciones": [
+      "Son envíos de publicidad personalizados y con dirección de destinatario, que no caben en el buzón",
+      "Son folletos que se recogen en las oficinas de Correos",
+      "Son envíos de publicidad sin personalizar",
+      "Son envíos de publicidad personalizados, con dirección del destinatario y entrega en el buzón"
+    ],
+    "respuestaCorrecta": "Son envíos de publicidad sin personalizar"
+  },
+  {
+    "id": 20,
+    "tema": "tema1",
+    "pregunta": "¿A través de qué canales se puede contratar el servicio \"Buzón de vacaciones\"?",
+    "opciones": [
+      "Se puede contratar en las oficinas de Correos por particulares y empresas; en la página Web solo por particulares",
+      "Se puede contratar en las oficinas de Correos por particulares y empresas; en la página Web solo por empresas",
+      "Se puede contratar en las oficinas de Correos por particulares y empresas; en Correos Market solo por particulares",
+      "Se puede contratar en las oficinas de Correos y en la página Web, tanto para particulares como para empresas"
+    ],
+    "respuestaCorrecta": "Se puede contratar en las oficinas de Correos y en la página Web, tanto para particulares como para empresas"
+  },
+  {
+    "id": 21,
+    "tema": "tema1",
+    "pregunta": "¿Qué tipología de envíos entran en el almacén de archivo de una oficina?",
+    "opciones": [
+      "Aquellos envíos registrados devueltos, que no han podido entregarse al remitente",
+      "Aquellos envíos para los que el cliente ha contratado este servicio",
+      "Aquellos envíos que por tamaño no caben en el almacén de avisados de la oficina",
+      "Aquellos envíos que no se han podido entregar, por estar el destinatario de vacaciones"
+    ],
+    "respuestaCorrecta": "Aquellos envíos registrados devueltos, que no han podido entregarse al remitente"
+  },
+  {
+    "id": 22,
+    "tema": "tema1",
+    "pregunta": "Si en mi puesto de trabajo debo configurar una contraseña para el acceso a los sistemas de Correos, ¿de qué debe componerse, como mínimo, para que sea segura?",
+    "opciones": [
+      "Es suficiente con tener letras y números y cuando sea lo más larga posible",
+      "Un código numérico, puesto que es lo más complejo de adivinar",
+      "Caracteres alfanuméricos, incluyendo letras mayúsculas, minúsculas, dígitos y signos de puntuación",
+      "Datos fácilmente recordables, como mi nombre, mi fecha de nacimiento, mi DNI, mi dirección o nombres de familiares cercanos"
+    ],
+    "respuestaCorrecta": "Caracteres alfanuméricos, incluyendo letras mayúsculas, minúsculas, dígitos y signos de puntuación"
+  },
+  {
+    "id": 23,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de las siguientes alternativas no está considerada en Correos como un tipo habitual de admisión de envíos postales?",
+    "opciones": [
+      "Admisión masiva",
+      "Admisión en citypaq",
+      "Recogida internacional",
+      "Recogida en buzones"
+    ],
+    "respuestaCorrecta": "Recogida internacional"
+  },
+  {
+    "id": 24,
+    "tema": "tema1",
+    "pregunta": "El destinatario de una carta ordinaria, ¿puede rehusarla?",
+    "opciones": [
+      "Sí, en el momento que desee",
+      "Sí, pero antes de abrirla",
+      "No, en ningún caso",
+      "Sí, pero presentando una solicitud para no recibir más envíos de ese remitente"
+    ],
+    "respuestaCorrecta": "Sí, pero antes de abrirla"
+  },
+  {
+    "id": 25,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la propiedad del importe de los giros es correcta?",
+    "opciones": [
+      "El remitente no puede solicitar la recuperación ni la modificación de un giro si ya ha sido admitido y cobrada la bolsa en IRIS",
+      "El remitente puede solicitar la recuperación o modificación del giro antes de haberse abonado al destinatario",
+      "El remitente puede solicitar la recuperación o modificación del giro solamente el mismo día en que se ha admitido",
+      "El remitente no puede solicitar la recuperación ni la modificación si el envío ha sido avisado por reparto"
+    ],
+    "respuestaCorrecta": "El remitente puede solicitar la recuperación o modificación del giro antes de haberse abonado al destinatario"
+  },
+  {
+    "id": 26,
+    "tema": "tema1",
+    "pregunta": "¿Qué tipos de informes de vehículos puedo solicitar a la DGT en las oficinas de Correos?",
+    "opciones": [
+      "El informe técnico completo de vehículo y el informe de vehículos a mi nombre",
+      "El informe técnico completo de vehículo y el informe de vehículos a mi nombre o a nombre de terceros",
+      "Solo puedo solicitar el informe técnico completo de vehículo",
+      "Solo puedo solicitar el informe de vehículos a mi nombre o a nombre de terceros"
+    ],
+    "respuestaCorrecta": "El informe técnico completo de vehículo y el informe de vehículos a mi nombre o a nombre de terceros"
+  },
+  {
+    "id": 27,
+    "tema": "tema2",
+    "pregunta": "Lea el texto mostrado a continuación y responda: ¿Cuántos años pasaron entre el Hielo 1.0 y el Hielo 2.0?",
+    "opciones": [
+      "Veinticinco años.",
+      "Cuarenta años.",
+      "Cincuenta años.",
+      "Treinta años."
+    ],
+    "respuestaCorrecta": "Cuarenta años."
+  },
+  {
+    "id": 28,
+    "tema": "tema2",
+    "pregunta": "Lea el texto mostrado a continuación y responda: Indique en qué consiste el Hielo 2.0:",
+    "opciones": [
+      "En la creación de cubitos de hielo a partir de bloques de hielo de los estanques helados.",
+      "En la generación y distribución de hielo a través de fábricas y repartidores.",
+      "En la extracción de hielo en Nueva Inglaterra con caballos y trineos.",
+      "En la obtención de hielo gracias a las neveras con congelador."
+    ],
+    "respuestaCorrecta": "En la generación y distribución de hielo a través de fábricas y repartidores."
+  },
+  {
+    "id": 29,
+    "tema": "tema2",
+    "pregunta": "Lea el texto mostrado a continuación y responda: ¿En qué términos se definían los negocios presentados en el texto?",
+    "opciones": [
+      "En relación con los clientes.",
+      "En relación con lo que pretendían conseguir (comodidad y limpieza).",
+      "En relación con la capacidad tecnológica de sus negocios.",
+      "En relación con lo que hacían."
+    ],
+    "respuestaCorrecta": "En relación con lo que pretendían conseguir (comodidad y limpieza)."
+  },
+  {
+    "id": 30,
+    "tema": "tema1",
+    "pregunta": "¿Qué se considera un \"libro\" desde el punto de vista postal?",
+    "opciones": [
+      "Son publicaciones encuadernadas o en fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, siempre que no contengan otra publicidad que la que figure en sus cubiertas.",
+      "Son publicaciones encuadernadas o fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, independientemente de la publicidad contenida en el mismo.",
+      "Son cualquier tipo de envío realizado por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados.",
+      "Son cualquier envío realizado por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, independientemente de la publicidad contenida en el mismo."
+    ],
+    "respuestaCorrecta": "Son publicaciones encuadernadas o en fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, siempre que no contengan otra publicidad que la que figure en sus cubiertas."
+  },
+  {
+    "id": 31,
+    "tema": "tema1",
+    "pregunta": "En una oficina, ¿desde qué frontal se realiza la admisión de un Paq 24?",
+    "opciones": [
+      "Hera",
+      "Aplicación de Correos Express",
+      "IRIS - Mágica",
+      "IRIS - Envíos postales"
+    ],
+    "respuestaCorrecta": "IRIS - Envíos postales"
+  },
+  {
+    "id": 32,
+    "tema": "tema1",
+    "pregunta": "¿A qué fenómeno se debe principalmente el crecimiento de la paquetería los últimos años?",
+    "opciones": [
+      "A la sustitución electrónica",
+      "A Internet",
+      "Al ecommerce o comercio electrónico",
+      "A la reducción de precios"
+    ],
+    "respuestaCorrecta": "Al ecommerce o comercio electrónico"
+  },
+  {
+    "id": 33,
+    "tema": "tema1",
+    "pregunta": "¿Qué aplicación específica permite la venta de productos de la ONCE en Correos?",
+    "opciones": ["SEDI", "Quenda", "IRIS", "Hermes"],
+    "respuestaCorrecta": "SEDI"
+  },
+  {
+    "id": 34,
+    "tema": "tema1",
+    "pregunta": "En relación con las modalidades del reenvío postal, indique cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "Si el cambio de dirección es definitivo, al finalizar el periodo de contratación la correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el envío.",
+      "Tanto si el cambio es temporal como definitivo, al finalizar el periodo de contratación la correspondencia que llegue al domicilio original se devolverá a la dirección del remitente como \"desconocido\"",
+      "Si el cambio de dirección es temporal, al finalizar el periodo de contratación la correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el envío.",
+      "Si el cambio de dirección es temporal, al finalizar el periodo de contratación la correspondencia que llegue al domicilio original se devolverá a la dirección del remitente como \"desconocido\"."
+    ],
+    "respuestaCorrecta": "Si el cambio de dirección es temporal, al finalizar el periodo de contratación la correspondencia se seguirá cursando bajo el procedimiento habitual al domicilio que figure en el envío."
+  },
+  {
+    "id": 35,
+    "tema": "tema1",
+    "pregunta": "¿Qué valores añadidos pueden contratarse con un burofax premium admitido en una oficina?",
+    "opciones": [
+      "Prueba de entrega electrónica, custodia documental de 120 meses, copia certificada y acuse de recibo",
+      "Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y copia certificada",
+      "Prueba de entrega electrónica, valor declarado, copia certificada y acuse de recibo",
+      "Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y acuse de recibo"
+    ],
+    "respuestaCorrecta": "Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y acuse de recibo"
+  },
+  {
+    "id": 36,
+    "tema": "tema2",
+    "pregunta": "¿Todos los mandos de Correos que tengan personal a sus órdenes son responsables de la seguridad y la salud de los trabajadores a su cargo?",
+    "opciones": [
+      "Sí, por lo que deben conocer y hacer cumplir las reglas de Prevención de Riesgos Laborales (PRL) que afecten al trabajo que realicen.",
+      "Sí, son responsables, pero solo en algunos casos.",
+      "No está dentro de sus competencias, puesto que no reciben formación en esta materia.",
+      "No son responsables en ningún caso."
+    ],
+    "respuestaCorrecta": "Sí, por lo que deben conocer y hacer cumplir las reglas de Prevención de Riesgos Laborales (PRL) que afecten al trabajo que realicen."
+  },
+  {
+    "id": 37,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el peso máximo para un paquete azul admitido en una oficina?",
+    "opciones": ["40 kg", "20 kg", "30 kg", "2 kg"],
+    "respuestaCorrecta": "20 kg"
+  },
+  {
+    "id": 38,
+    "tema": "tema1",
+    "pregunta": "¿Cuáles son los límites de tamaño de los documentos escaneados para su envío a través de la Oficina de Registro Virtual (ORVE)?",
+    "opciones": [
+      "Máximo 3 documentos por envío, con un peso máximo por documento de hasta 10 MB y el total de los documentos no puede sobre pasar los 15 MB.",
+      "Máximo de 3 documentos por envío, con un peso máximo por documento de hasta 15 MB y el total de los documentos no puede sobrepasar los 45 MB.",
+      "Máximo 5 documentos por envío, con un peso máximo por documento de hasta 15 MB y el total de los documentos no puede sobrepasar los 45 MB.",
+      "Máximo de 5 documentos por envío, con un peso máximo por documento de hasta 10 MB y el total de los documentos no puede sobrepasar los 15 MB."
+    ],
+    "respuestaCorrecta": "Máximo 3 documentos por envío, con un peso máximo por documento de hasta 10 MB y el total de los documentos no puede sobre pasar los 15 MB."
+  },
+  {
+    "id": 39,
+    "tema": "tema1",
+    "pregunta": "¿Cuántos miembros deben componer el Consejo de Administración de Correos?",
+    "opciones": [
+      "Entre 10 y 12 miembros",
+      "Correos no dispone de Consejo de Administración",
+      "Entre 12 y 15 miembros",
+      "Al menos 20 miembros"
+    ],
+    "respuestaCorrecta": "Entre 10 y 12 miembros"
+  },
+  {
+    "id": 40,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es la duración máxima del mantenimiento de la cadena de frío de un Paq Frío para el servicio de alimentación?",
+    "opciones": ["24 horas", "36 horas", "12 horas", "48 horas"],
+    "respuestaCorrecta": "24 horas"
+  },
+  {
+    "id": 41,
+    "tema": "tema1",
+    "pregunta": "En un centro de tratamiento, ¿cuál es la Unidad encargada de la clasificación automática y manual de los productos ordinarios, sin trazabilidad en los sistemas de Correos?",
+    "opciones": ["Zona Logística", "UAM", "UPO", "UPR"],
+    "respuestaCorrecta": "UAM"
+  },
+  {
+    "id": 42,
+    "tema": "tema1",
+    "pregunta": "A efectos fiscales y aduaneros, ¿cuál de las siguientes afirmaciones es incorrecta respecto a la situación de Canarias en el marco de la Unión Europea?",
+    "opciones": [
+      "Canarias es territorio de aplicación del impuesto general indirecto canario (IGIC)",
+      "Canarias es territorio de la Unión Europea.",
+      "Canarias es territorio de aplicación del IVA.",
+      "Canarias está integrada en el territorio aduanero de la Unión."
+    ],
+    "respuestaCorrecta": "Canarias es territorio de aplicación del IVA."
+  },
+  {
+    "id": 43,
+    "tema": "tema1",
+    "pregunta": "Indique cuál de las siguientes afirmaciones es correcta, en relación con la entrega en una oficina de un producto de paquetería a un menor de edad:",
+    "opciones": [
+      "En ningún caso se podrá realizar la entrega de un envío a un menor de edad; siempre lo tendrá que recoger el padre/madre/tutor debidamente acreditado.",
+      "Únicamente se podrá realizar la entrega en el caso de que el menor presente un escrito de su padre, madre o tutor justificando la necesidad.",
+      "Se podrá realizar la entrega a un menor de edad, siempre que tenga 14 años o más y presente un documento de identificación válido",
+      "Se podrá realizar la entrega independientemente de la edad del destinatario, siempre que posea un documento de identidad válido y en vigor."
+    ],
+    "respuestaCorrecta": "Se podrá realizar la entrega a un menor de edad, siempre que tenga 14 años o más y presente un documento de identificación válido"
+  },
+  {
+    "id": 44,
+    "tema": "tema1",
+    "pregunta": "En una oficina, ¿cuál de las siguientes utilidades está contemplada en la aplicación IRIS?",
+    "opciones": [
+      "Seguimiento de tiempos de espera de los clientes.",
+      "Entrega de envíos.",
+      "Gestión de vacaciones y ausencias de empleados.",
+      "Venta de productos."
+    ],
+    "respuestaCorrecta": "Entrega de envíos."
+  },
+  {
+    "id": 45,
+    "tema": "tema1",
+    "pregunta": "¿Qué es la ciberseguridad?",
+    "opciones": [
+      "Es una actividad maliciosa en la que un atacante se hace pasar por otra persona para cometer algún tipo de fraude.",
+      "Es el conjunto de medidas de protección de la información en formato digital alojada en sistemas de información interconectados.",
+      "Son tácticas utilizadas para obtener datos de naturaleza sensible de una persona. Esas técnicas de persuasión suelen valerse de la buena voluntad y falta de precaución de la víctima.",
+      "Es una ciencia que estudia cuáles son los posibles fallos del hardware y software para poder explotarlos y robar información."
+    ],
+    "respuestaCorrecta": "Es el conjunto de medidas de protección de la información en formato digital alojada en sistemas de información interconectados."
+  },
+  {
+    "id": 46,
+    "tema": "tema1",
+    "pregunta": "En el ámbito del márketing, ¿qué es un Lead?",
+    "opciones": [
+      "Hace referencia a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial. Solamente puede ser una organización interesada en lo que esa empresa está ofreciendo, nunca una persona.",
+      "Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial, es decir, en una persona u organización interesada en lo que esa empresa le está ofreciendo.",
+      "Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial. Solamente puede ser una persona, nunca una organización interesada en lo que esa empresa le está ofreciendo.",
+      "Hace referencia a un cliente con una antigüedad superior a 10 años. Puede tratarse de una persona física o jurídica."
+    ],
+    "respuestaCorrecta": "Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial, es decir, en una persona u organización interesada en lo que esa empresa le está ofreciendo."
+  },
+  {
+    "id": 47,
+    "tema": "tema1",
+    "pregunta": "¿Qué es Correos Market?",
+    "opciones": [
+      "Correos Market no es ningún servicio que ofrezca Correos actualmente.",
+      "Correos Market es el servicio que tiene Correos para los peregrinos de El Camino de Santiago, donde se pueden contratar servicios como el Paq Bicicleta o el Paq Compostela.",
+      "Correos Market es la plataforma de soluciones e-commerce de Correos, donde se pueden contratar servicios como: crea tu tienda, cross-border e-commerce o vender en Marketplace.",
+      "Correos Market es una plataforma de comercio electrónico de Correos que persigue que los vendedores puedan publicar, promocionar y vender sus productos."
+    ],
+    "respuestaCorrecta": "Correos Market es una plataforma de comercio electrónico de Correos que persigue que los vendedores puedan publicar, promocionar y vender sus productos."
+  },
+  {
+    "id": 48,
+    "tema": "tema1",
+    "pregunta": "¿En qué casos los ciudadanos podrán solicitar, a través de las oficinas de Correos, un duplicado del permiso de circulación de un vehículo?",
+    "opciones": [
+      "Solo en caso de deterioro, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico.",
+      "Solo en caso de extravío y deterioro, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico.",
+      "En caso de extravío, deterioro o sustracción, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico.",
+      "Solo en caso de extravío, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico."
+    ],
+    "respuestaCorrecta": "En caso de extravío, deterioro o sustracción, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico."
+  },
+  {
+    "id": 49,
+    "tema": "tema2",
+    "pregunta": "¿Qué porcentaje de la población sumarían aquellos que son de pelo negro o pelirrojo?",
+    "opciones": ["40%", "46%", "44%", "35%"],
+    "respuestaCorrecta": "44%"
+  },
+  {
+    "id": 50,
+    "tema": "tema2",
+    "pregunta": "Teniendo en cuenta que Villa-Ria tiene 800 habitantes, ¿cuántos de ellos son castaños?",
+    "opciones": [
+      "150 habitantes.",
+      "200 habitantes.",
+      "320 habitantes.",
+      "90 habitantes."
+    ],
+    "respuestaCorrecta": "200 habitantes."
+  },
+  {
+    "id": 51,
+    "tema": "tema2",
+    "pregunta": "Sabiendo que la mitad de las personas rubias de Villa-Ria son mujeres, ¿Cuántas mujeres rubias hay en Villa-Ria? (Total habitantes: 800)",
+    "opciones": ["100 mujeres.", "75 mujeres.", "40 mujeres.", "25 mujeres."],
+    "respuestaCorrecta": "25 mujeres."
+  },
+  {
+    "id": 52,
+    "tema": "tema1",
+    "pregunta": "Entre las siguientes, ¿qué tipología de entrega en oficinas no existe actualmente?",
+    "opciones": [
+      "Entrega exclusiva al destinatario.",
+      "Entrega con pago diferido.",
+      "Entrega con recogida.",
+      "Entrega con prueba de entrega electrónica."
+    ],
+    "respuestaCorrecta": "Entrega con pago diferido."
+  },
+  {
+    "id": 53,
+    "tema": "tema1",
+    "pregunta": "En relación con el derecho a la protección de datos personales, señale cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "El derecho a la protección de datos personales no está recogido en la Carta de los Derechos Fundamentales de la Unión Europea.",
+      "El derecho a la protección de datos personales es un derecho fundamental protegido por el artículo 18.4 de la Constitución española.",
+      "El derecho a la protección de datos es un derecho de los titulares, pero no tiene consideración de derecho fundamental.",
+      "El derecho a la protección de datos no es un derecho fundamental, no estando recogido en la Constitución española."
+    ],
+    "respuestaCorrecta": "El derecho a la protección de datos personales es un derecho fundamental protegido por el artículo 18.4 de la Constitución española."
+  },
+  {
+    "id": 54,
+    "tema": "tema1",
+    "pregunta": "Uno de los datos que debe conocer el destinatario de una operación de Western Union es el importe a cobrar, ¿cuál es el porcentaje de desviación permitido para ese importe?",
+    "opciones": ["± 5 %.", "± 10 %.", "± 15 %.", "± 20 %."],
+    "respuestaCorrecta": "± 10 %."
+  },
+  {
+    "id": 55,
+    "tema": "tema1",
+    "pregunta": "¿Con cuántas modalidades cuenta el reembolso en el Paq Estándar para clientes con contrato?",
+    "opciones": [
+      "Cuenta con dos modalidades: entrega a domicilio con un máximo con un máximo de 499,99 € y abono en cuenta con un máximo de 2.499,99 €.",
+      "Cuenta con dos modalidades de entrega: entrega a domicilio con un máximo de 499,99 € y abono en cuenta con un máximo de 6.000 €.",
+      "Solo cuenta con la modalidad de abono en cuenta con un máximo de 2.499,99 €.",
+      "Ninguna de las opciones anteriores es correcta."
+    ],
+    "respuestaCorrecta": "Cuenta con dos modalidades: entrega a domicilio con un máximo con un máximo de 499,99 € y abono en cuenta con un máximo de 2.499,99 €."
+  },
+  {
+    "id": 56,
+    "tema": "tema1",
+    "pregunta": "En relación con la carta certificada estándar, indique cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "Peso hasta 100 gr. y dimensiones 189 mm x 250 mm.",
+      "Peso hasta 50 gr. y dimensiones 162 mm y 229 mm.",
+      "Peso hasta 50 gr. y dimensiones 189 x 250 mm.",
+      "Peso hasta 200 gr. y dimensiones 162 mm y 229 mm."
+    ],
+    "respuestaCorrecta": "Peso hasta 50 gr. y dimensiones 162 mm y 229 mm."
+  },
+  {
+    "id": 57,
+    "tema": "tema1",
+    "pregunta": "De entre las siguientes, ¿con qué entidad o entidades financieras pueden realizarse operaciones de reintegro e ingreso, a través de Correos Cash?",
+    "opciones": [
+      "Las otras tres respuestas son correctas.",
+      "Bancofar.",
+      "Ibercaja.",
+      "Triodos Bank."
+    ],
+    "respuestaCorrecta": "Las otras tres respuestas son correctas."
+  },
+  {
+    "id": 58,
+    "tema": "tema1",
+    "pregunta": "¿Qué servicios ofrece \"Mi Oficina\"?",
+    "opciones": [
+      "En Mi Oficina, los vendedores con contrato de Correos pueden publicar y promocionar sus productos mediante la firma de un acuerdo de vendedor.",
+      "En Mi Oficina puedes descargarte la nómina y solicitar un nuevo puesto de promoción interna.",
+      "En Mi Oficina, los usuarios se registran para recibir muestras de productos lanzados al mercado recientemente.",
+      "En Mi Oficina, además de realizar envíos, puedes ver las facturas de tu contrato o contratar los servicios de Correos Frío, entre otras posibilidades."
+    ],
+    "respuestaCorrecta": "En Mi Oficina, además de realizar envíos, puedes ver las facturas de tu contrato o contratar los servicios de Correos Frío, entre otras posibilidades."
+  },
+  {
+    "id": 59,
+    "tema": "tema1",
+    "pregunta": "Indique cuál de los siguientes documentos no es válido para acreditar la identidad, en la solicitud de voto para unas elecciones generales:",
+    "opciones": [
+      "Credencial de tripulante de barco.",
+      "Permiso de conducir con fotografía.",
+      "Documento Nacional de Identidad (DNI) caducado.",
+      "Pasaporte español con fotografía."
+    ],
+    "respuestaCorrecta": "Documento Nacional de Identidad (DNI) caducado."
+  },
+  {
+    "id": 60,
+    "tema": "tema1",
+    "pregunta": "La organización periférica de Correos se divide en 7 áreas territoriales. De las siguientes opciones, señale aquella que no es completamente precisa en la composición de su ámbito territorial:",
+    "opciones": [
+      "Área sur: Andalucía.",
+      "Área insular: Islas Canarias.",
+      "Área centro: Madrid, Castilla la Mancha y Extremadura.",
+      "Área este: Comunidad Valenciana, Murcia e Islas Baleares."
+    ],
+    "respuestaCorrecta": "Área este: Comunidad Valenciana, Murcia e Islas Baleares."
+  },
+  {
+    "id": 61,
+    "tema": "tema1",
+    "pregunta": "En la unidad de entrega de una oficina, ¿cuál de las siguientes no es una función proporcionada por la aplicación SGIE?",
+    "opciones": [
+      "La liquidación de envíos.",
+      "La venta de sellos filatélicos.",
+      "El cierre de usuario.",
+      "La recepción de envíos avisados."
+    ],
+    "respuestaCorrecta": "La venta de sellos filatélicos."
+  },
+  {
+    "id": 62,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el procedimiento establecido en las oficinas de Correos para los casos de deterioro y robo o extravío de boletos de la Cruz Roja?",
+    "opciones": [
+      "En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia, pero no es necesario comunicarlo a Control de Productos.",
+      "En ambos casos, solo habría que comunicarlo a Control de Productos para que ellos inicien los trámites correspondientes en cada caso.",
+      "En ambos casos se debe presentar denuncia y remitir posteriormente una copia de la misma a Control de Productos.",
+      "En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia y remitir posteriormente una copia a Control de Productos."
+    ],
+    "respuestaCorrecta": "En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia y remitir posteriormente una copia a Control de Productos."
+  },
+  {
+    "id": 63,
+    "tema": "tema1",
+    "pregunta": "¿Qué función proporciona la web correos.es?",
+    "opciones": [
+      "Correos.es es la plataforma digital de comercio electrónico de Correos.",
+      "Correos.es es la web institucional del Grupo Correos en la que se presenta el Grupo, se expone su misión, su historia y las principales directrices estratégicas que inspiran su actuación.",
+      "Correos.es es una web de Correos que permite a los usuarios conocer nuevos lanzamientos del mercado.",
+      "Correos.es es la web comercial de Correos y presenta los servicios que ofrece Correos, diferenciando entre particulares y empresas."
+    ],
+    "respuestaCorrecta": "Correos.es es la web institucional del Grupo Correos en la que se presenta el Grupo, se expone su misión, su historia y las principales directrices estratégicas que inspiran su actuación."
+  },
+  {
+    "id": 64,
+    "tema": "tema2",
+    "pregunta": "Si se produce un atraco o robo en una oficina, una vez hayan salido los atracadores, los trabajadores deben ponerse en contacto con:",
+    "opciones": [
+      "Los cuerpos de seguridad.",
+      "La policía",
+      "El responsable de seguridad del área territorial.",
+      "El Centro Operativo de Seguridad (COS)"
+    ],
+    "respuestaCorrecta": "El Centro Operativo de Seguridad (COS)"
+  },
+  {
+    "id": 65,
+    "tema": "tema1",
+    "pregunta": "Cuando un cliente deposita un envío prerregistrado en un Citypaq situado en una oficina, ¿qué sistema avisa a los empleados de que tienen pendiente de recoger un envío en dicho Citypaq para su posterior admisión?",
+    "opciones": ["IRIS.", "Citypaq.", "SGIE.", "SHIVA."],
+    "respuestaCorrecta": "SHIVA."
+  },
+  {
+    "id": 66,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el proceso a seguir para realizar un pedido de reposición de tarjetas GiftCard en las oficinas de Correos?",
+    "opciones": [
+      "El Usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsa sobre \"Reposición de productos\".",
+      "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre \"Reposición de GiftCard\".",
+      "El usuario de la oficina debe remitir solicitud a Control de Productos, indicando el número de unidades de cada producto.",
+      "El usuario de la oficina debe remitir solicitud por correo electrónico a GiftCard con copia a Control de Productos, indicando el número de unidades de cada producto."
+    ],
+    "respuestaCorrecta": "El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre \"Reposición de GiftCard\"."
+  },
+  {
+    "id": 67,
+    "tema": "tema1",
+    "pregunta": "Dentro del marco normativo en el que se desenvuelve Correos, ¿cuáles son las dos normas fundamentales que regulan la actividad de Correos en el mercado postal?",
+    "opciones": [
+      "Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado posta; y el Real Decreto Legislativo 5/2015, por el que se aprueba la Ley del Estatuto Básico del Empleado Público.",
+      "Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto Legislativo 5/2015, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "Ley 43/2010, de 30 de diciembre, de Contratos del Sector Público; y el Real Decreto Legislativo 5/2015, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto 5/2015, de reforma del mercado postal."
+    ],
+    "respuestaCorrecta": "Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto Legislativo 5/2015, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público."
+  },
+  {
+    "id": 68,
+    "tema": "tema2",
+    "pregunta": "En relación con la atención al cliente, indique cuál es la actitud que no se debe mantener:",
+    "opciones": [
+      "Ser empático.",
+      "Mostrar buena predisposición.",
+      "Escuchar activamente.",
+      "Ser impaciente."
+    ],
+    "respuestaCorrecta": "Ser impaciente."
+  },
+  {
+    "id": 69,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es la obligación del trabajador en materia de prevención de riesgos laborales?",
+    "opciones": [
+      "Cumplir las normas y utilizar los medios de protección facilitados por la empresa.",
+      "El trabajador no tiene obligación si no recibe formación en prevención.",
+      "La prevención de riesgos es solo responsabilidad del empresario.",
+      "Cumplir con sus tareas sin necesidad de seguir normas de seguridad."
+    ],
+    "respuestaCorrecta": "Cumplir las normas y utilizar los medios de protección facilitados por la empresa."
+  },
+  {
+    "id": 70,
+    "tema": "tema1",
+    "pregunta": "¿Qué debe contener la carta de porte en un envío de mercancías peligrosas?",
+    "opciones": [
+      "Nombre del remitente y del destinatario, descripción de la mercancía, cantidad y clase de mercancía peligrosa.",
+      "Solo nombre del remitente y destinatario.",
+      "Descripción genérica sin detalles de la mercancía.",
+      "No es obligatorio que contenga información específica."
+    ],
+    "respuestaCorrecta": "Nombre del remitente y del destinatario, descripción de la mercancía, cantidad y clase de mercancía peligrosa."
+  },
+  {
+    "id": 71,
+    "tema": "tema1",
+    "pregunta": "¿Qué tipo de envíos contra reembolso se entregan en una oficina?",
+    "opciones": [
+      "Ninguno, todos los envíos contra reembolso han de entregarse en el domicilio, sin excepción.",
+      "Todos; los envíos contra reembolso, al tener importes asociados, solo se entregan en oficina.",
+      "Los que no tienen entrega en domiciliaria y los que han sido avisados por las unidades de reparto.",
+      "Aquellos que por su tamaño no se pueden depositar en un buzón."
+    ],
+    "respuestaCorrecta": "Los que no tienen entrega en domiciliaria y los que han sido avisados por las unidades de reparto."
+  },
+  {
+    "id": 72,
+    "tema": "tema1",
+    "pregunta": "¿Para cuál de las siguientes funciones se utiliza la aplicación Wupos en una oficina?",
+    "opciones": [
+      "Enviar paquetería con mercancías peligrosas.",
+      "Informar la estadística de la oficina.",
+      "Efectuar transferencias de dinero.",
+      "Enviar notificaciones electrónicas."
+    ],
+    "respuestaCorrecta": "Informar la estadística de la oficina."
+  },
+  {
+    "id": 73,
+    "tema": "tema1",
+    "pregunta": "En relación con uno de los principios en protección de datos, el de integridad y confidencialidad, señale cuál de las siguientes afirmaciones es incorrecta:",
+    "opciones": [
+      "Los empleados juegan un papel fundamental en la aplicación de las medidas de seguridad técnicas y organizativas para evitar el tratamiento no autorizado o ilícito, pérdida o destrucción o daño accidental, durante el tratamiento de los datos o uso de los datos personales en el desempeño de sus funciones.",
+      "Los empleados no tienen ninguna obligación de confidencialidad sobre los datos a los hubieran podido acceder en el ejercicio de sus funciones, la obligación es solamente de la empresa.",
+      "La confidencialidad es una de los principios en materia de protección de datos.",
+      "Los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase estarán sujetos en todo momento al deber de confidencialidad."
+    ],
+    "respuestaCorrecta": "Los empleados no tienen ninguna obligación de confidencialidad sobre los datos a los hubieran podido acceder en el ejercicio de sus funciones, la obligación es solamente de la empresa."
+  },
+  {
+    "id": 74,
+    "tema": "tema1",
+    "pregunta": "En relación con las reclamaciones de los clientes, señale cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "En una reclamación, el cliente se pone en contacto con Correos para informar de un problema en el servicio o en algún producto, que debe solucionarse.",
+      "En una reclamación, el cliente se pone en contacto con Correos para dejar constancia de su insatisfacción con alguno de los servicios o productos.",
+      "En una reclamación, una persona solicita información sobre algún producto o servicio ofrecido por Correos.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "respuestaCorrecta": "En una reclamación, el cliente se pone en contacto con Correos para informar de un problema en el servicio o en algún producto, que debe solucionarse."
+  },
+  {
+    "id": 75,
+    "tema": "tema1",
+    "pregunta": "¿De cuántas zonas tarifarias dispone el Paq Today?",
+    "opciones": [
+      "Dispone de 5 zonas: Z1, Z2, Z3, Z4 y Z5.",
+      "Dispone de una única zona: Z1.",
+      "Dispone de 10 zonas: Z1, Z2, Z3, Z3+, Z4, Z5, Z6, Z7, Z8 y Z9.",
+      "Dispone de 7 zonas: Z1, Z2, Z3, Z4, Z5, Z6 y Z7."
+    ],
+    "respuestaCorrecta": "Dispone de 7 zonas: Z1, Z2, Z3, Z4, Z5, Z6 y Z7."
+  },
+  
+  {
+    "id": 80,
+    "tema": "tema1",
+    "pregunta": "De entre las siguientes opciones, seleccione aquella que contenga un dato que no necesita ser aportado por un cliente beneficiario de una transferencia de Western Union:",
+    "opciones": [
+      "Número de control de transferencia MTCN.",
+      "Dirección postal del remitente.",
+      "Nombre y apellidos del remitente.",
+      "Ciudad y país de origen de la transferencia."
+    ],
+    "respuestaCorrecta": "Dirección postal del remitente."
+  },
+  {
+    "id": 81,
+    "tema": "tema1",
+    "pregunta": "¿Cómo se denomina el libro de sellos de emisión anual que presenta Correos con la recopilación de los sellos más importantes de cada año?",
+    "opciones": [
+      "Filatelia anual.",
+      "Valores filatélicos.",
+      "Valores en el tiempo.",
+      "Los mejores sellos del año."
+    ],
+    "respuestaCorrecta": "Valores filatélicos."
+  },
+  {
+    "id": 82,
+    "tema": "tema1",
+    "pregunta": "¿Dispone Correos de un portal de Transparencia?",
+    "opciones": [
+      "No, no es necesario tenerlo al no pertenecer Correos a la Administración General del Estado.",
+      "Sí, se ha creado y está ubicado en la web corporativa de Correos.",
+      "Sí, se ha creado y está ubicado en Conecta para facilitar el acceso al colectivo al que va dirigido: los empleados de Correos.",
+      "No, aún no ha sido creado, pero está previsto hacerlo próximamente."
+    ],
+    "respuestaCorrecta": "Sí, se ha creado y está ubicado en la web corporativa de Correos."
+  },
+  {
+    "id": 83,
+    "tema": "tema1",
+    "pregunta": "¿Cuáles son los ámbitos de suscripción posibles de un reenvío postal?",
+    "opciones": [
+      "Nacional e internacional.",
+      "Peninsular e insular.",
+      "Rural e urbano.",
+      "Local, provincial y nacional."
+    ],
+    "respuestaCorrecta": "Nacional e internacional."
+  },
+  {
+    "id": 84,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el importe máximo por el que se puede asegurar un Paquete Azul?",
+    "opciones": [
+      "Por 6.000 €.",
+      "Por 2.499,99 €.",
+      "Por 3.000 €.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "respuestaCorrecta": "Por 6.000 €."
+  },
+  {
+    "id": 85,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el límite de saldo de la tarjeta Correos Prepago?",
+    "opciones": [
+      "100.000 €.",
+      "No existe límite de saldo.",
+      "3.000 €.",
+      "7.500 €."
+    ],
+    "respuestaCorrecta": "No existe límite de saldo."
+  },
+  {
+    "id": 86,
+    "tema": "tema1",
+    "pregunta": "¿Qué es el Buzón Digital de Correos?",
+    "opciones": [
+      "Un marketplace.",
+      "Una plataforma de pagos online.",
+      "Una solución de identidad digital descentralizada.",
+      "Un almacenamiento en la nube de documentos digitales."
+    ],
+    "respuestaCorrecta": "Una solución de identidad digital descentralizada."
+  },
+  {
+    "id": 87,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes valores añadidos no permite el Paquete Internacional Económico?",
+    "opciones": [
+      "Prueba de Entrega Electrónica.",
+      "Reembolso internacional.",
+      "DUA de Exportación a terceros países.",
+      "Valor declarado internacional."
+    ],
+    "respuestaCorrecta": "Reembolso internacional."
+  },
+  {
+    "id": 88,
+    "tema": "tema1",
+    "pregunta": "La correspondencia admitida en las oficinas, ¿en qué casos debe circular en bandejas con tapa?",
+    "opciones": [
+      "Cuando contienen envíos registrados.",
+      "En ningún caso.",
+      "Cuando contienen envíos sin cancelar.",
+      "Cuando contienen envíos urgentes."
+    ],
+    "respuestaCorrecta": "Cuando contienen envíos registrados."
+  },
+  {
+    "id": 89,
+    "tema": "tema1",
+    "pregunta": "En relación con la delimitación del servicio postal universal que establece la normativa en vigor, señale cuál de las siguientes afirmaciones es correcta:",
+    "opciones": [
+      "El servicio postal universal comprende las actividades de recogida, admisión, clasificación, transporte, distribución y entrega de envíos postales.",
+      "El servicio postal universal comprende exclusivamente las actividades de recogida, admisión, distribución y entrega de envíos postales.",
+      "El servicio postal universal incluye envíos de cartas y tarjetas postales con comunicaciones escritas en cualquier tipo de soporte, de hasta 500 gramos de peso.",
+      "El servicio postal universal incluye paquetes postales, con o sin valor comercial, de hasta 10 kg de peso."
+    ],
+    "respuestaCorrecta": "El servicio postal universal comprende las actividades de recogida, admisión, clasificación, transporte, distribución y entrega de envíos postales."
+  },
+  {
+    "id": 90,
+    "tema": "tema1",
+    "pregunta": "¿Cómo se denomina la aplicación que utiliza el responsable de unidad para gestionar los permisos y accesos de los usuarios a las aplicaciones?",
+    "opciones": ["SICER.", "SIGUA.", "IRIS.", "SIE."],
+    "respuestaCorrecta": "SICER."
+  },
+  {
+    "id": 91,
+    "tema": "tema1",
+    "pregunta": "Dentro del servicio de cobro de recibos de Correos, ¿en qué casos se puede admitir el pago con tarjeta?",
+    "opciones": [
+      "En ningún caso.",
+      "En los pagos dirigidos a las Administraciones Públicas.",
+      "En el pago de multas de la DGT.",
+      "En los pagos dirigidos a entidades financieras o de crédito que superen los 999,99 €."
+    ],
+    "respuestaCorrecta": "En los pagos dirigidos a las Administraciones Públicas."
+  },
+  {
+    "id": 92,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de los siguientes plazos de almacenamiento del Paq Peregrino en la oficina de destino no es posible?",
+    "opciones": ["45 días.", "15 días.", "75 días.", "33 días."],
+    "respuestaCorrecta": "75 días."
+  },
+  {
+    "id": 93,
+    "tema": "tema1",
+    "pregunta": "¿Cuáles son las redes de transporte de Correos?",
+    "opciones": [
+      "Interzonal, zonal y provincial.",
+      "Interzonal, zonal, provincial y local.",
+      "Interzonal y provincial.",
+      "Provincial y local."
+    ],
+    "respuestaCorrecta": "Interzonal, zonal, provincial y local."
+  },
+  {
+    "id": 94,
+    "tema": "tema1",
+    "pregunta": "En las oficinas, ¿para qué tipo de envíos se deben formalizar despachos detallados en SGIE?",
+    "opciones": [
+      "Para envíos que contienen la documentación de los procesos electorales (SV, DE, DN, VE).",
+      "Para envíos con valor declarado.",
+      "No se formalizan despachos en ningún caso.",
+      "Para envíos de IPC."
+    ],
+    "respuestaCorrecta": "Para envíos que contienen la documentación de los procesos electorales (SV, DE, DN, VE)."
+  },
+  {
+    "id": 95,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de las siguientes opciones no es un producto relacionado con la filatelia, comercializado en las oficinas de Correos?",
+    "opciones": [
+      "Sobres de primer día.",
+      "Bonos.",
+      "Series.",
+      "Libros filatélicos."
+    ],
+    "respuestaCorrecta": "Bonos."
+  },
+  {
+    "id": 96,
+    "tema": "tema1",
+    "pregunta": "¿Cuál de las siguientes opciones refleja mejor lo que es una Startup?",
+    "opciones": [
+      "Es una empresa establecida que opera en un sector determinado.",
+      "Es un agente que invierte.",
+      "Es una entidad que facilita la gestión administrativa y genera ayudas con recursos y subvenciones.",
+      "Es un proyecto empresarial emergente con un gran potencial de crecimiento."
+    ],
+    "respuestaCorrecta": "Es un proyecto empresarial emergente con un gran potencial de crecimiento."
+  },
+  {
+    "id": 97,
+    "tema": "tema1",
+    "pregunta": "Si un cliente solicita en la oficina de Correos un formulario de la OMIC (Oficina Municipal de Información al Consumidor) para reclamar, ¿cuál es el proceso a seguir?",
+    "opciones": [
+      "La oficina debe facilitar la hoja de reclamación OMIC descargándola directamente de la web del ayuntamiento o comunidad correspondiente.",
+      "La oficina debe facilitar al cliente un enlace web desde el que podrá realizar su reclamación.",
+      "La oficina cumplimentará un formulario y le entregará una copia al cliente.",
+      "En las oficinas de Correos no se puede facilitar ningún formulario, el cliente debe dirigirse a la OMIC personalmente."
+    ],
+    "respuestaCorrecta": "La oficina debe facilitar la hoja de reclamación OMIC descargándola directamente de la web del ayuntamiento o comunidad correspondiente."
+  },
+  {
+    "id": 98,
+    "tema": "tema1",
+    "pregunta": "En la admisión de una carta ordinaria en una oficina, a través de IRIS, en el apartado \"características del envío\", ¿cuál de los siguientes campos no aparece?",
+    "opciones": [
+      "Peso.",
+      "Código postal de destino.",
+      "Nombre del destinatario.",
+      "Ámbito."
+    ],
+    "respuestaCorrecta": "Nombre del destinatario."
+  },
+  {
+    "id": 99,
+    "tema": "tema1",
+    "pregunta": "¿Cuál es el plazo de entrega de un Paq 24 con origen en Madrid y destino Andorra?",
+    "opciones": ["D+2.", "D+1.", "D+4.", "D+3."],
+    "respuestaCorrecta": "D+2."
+  },
+  {
+    "id": 100,
+    "tema": "tema1",
+    "pregunta": "¿Qué servicios asociados ofrece el Buzón Digital de Correos?",
+    "opciones": [
+      "Emisión de certificados electrónicos y envío a Buzón Digital.",
+      "Emisión de certificados electrónicos y cuadro de mando.",
+      "Suscripciones y cuadro de mando.",
+      "Suscripciones y envío a Buzón Digital."
+    ],
+    "respuestaCorrecta": "Suscripciones y envío a Buzón Digital."
+  }
+]
